@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nour</h1>
 <h3 align="center">A junior iOS Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/3790267de3fe9ea027768a3e6e64d0be85228ea11e0312b20dfa3af0256cedb7/68747470733a2f2f7777772e73636e736f66742e636f6d2f6d6f62696c652f696f732d646576656c6f706d656e742e737667">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/2b668f8cbe74aa9d8f09e33d2f74900c8ecda034c30210f3f2af501da509c4c6/68747470733a2f2f7777772e73636e736f66742e636f6d2f6d6f62696c652f696f732d646576656c6f706d656e742e737667">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=svnji&label=Profile%20views&color=0e75b6&style=flat" alt="svnji" /> </p>
 
