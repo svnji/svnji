@@ -1,72 +1,78 @@
 <h1 align="center">Hi 👋, I'm Nour</h1>
-<h3 align="center">A junior iOS Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/2b668f8cbe74aa9d8f09e33d2f74900c8ecda034c30210f3f2af501da509c4c6/68747470733a2f2f7777772e73636e736f66742e636f6d2f6d6f62696c652f696f732d646576656c6f706d656e742e737667">
+<h3 align="center">Junior iOS Developer </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=svnji&label=Profile%20views&color=0e75b6&style=flat" alt="svnji" /> </p>
+<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
-<div id="badges" align="center">
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=svnji&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+<div align="center">
   <a href="https://www.linkedin.com/in/nour-eldeen-wesam-8224002a3/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </div>
 
-- 🌱 I’m currently learning **Swift** and **UIKit** to enhance my iOS development skills.
+---
 
-- 💬 Ask me about **iOS Development**, **Swift**, and **Python**.
+### 👨‍💻 About Me
 
-- 📫 How to reach me **noureldeenwesam@gmail.com**
+- 🌱 Currently learning **Swift**, **UIKit**, and **SwiftUI**
+- 💬 Ask me about **iOS Development**, **Swift**, and **Python**
+- 📫 Reach me at **noureldeenwesam@gmail.com**
+- ⚡ Fun fact: *I think I'm too good to be true 😆*
 
-- ⚡ Fun fact **I think i'm too good to be true**
+---
 
-<h3 align="left">Connect with me:</h3>
+### 🌐 Connect with Me
+
 <p align="left">
-<a href="https://twitter.com/nourwesvm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nourwesvm" height="30" width="40" /></a>
-<a href="https://fb.com/nour wesam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nour wesam" height="30" width="40" /></a>
-<a href="https://instagram.com/nourwesvm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nourwesvm" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/nourwesam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="nourwesam" height="30" width="40" /></a>
-<a href="https://discord.gg/918984034850324520" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="918984034850324520" height="30" width="40" /></a>
+<a href="https://twitter.com/nourwesvm" target="_blank">
+<img src="https://skillicons.dev/icons?i=twitter" height="45"/>
+</a>
+
+<a href="https://instagram.com/nourwesvm" target="_blank">
+<img src="https://skillicons.dev/icons?i=instagram" height="45"/>
+</a>
+
+<a href="https://www.linkedin.com/in/nour-eldeen-wesam-8224002a3/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
+
+<a href="https://codeforces.com/profile/nourwesam" target="_blank">
+<img src="https://cdn.simpleicons.org/codeforces" height="45"/>
+</a>
+
+<a href="https://discord.com/users/918984034850324520" target="_blank">
+<img src="https://skillicons.dev/icons?i=discord" height="45"/>
+</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+---
+
+### 🛠 Languages & Tools
+
 <p align="left">
-  <a href="https://www.apple.com/swift/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.apple.com/ios/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="ios" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3schools.com/dart/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="40" height="40"/> 
-  </a>
-  <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a>
+<img src="https://skillicons.dev/icons?i=swift,apple,cpp,dart,flutter,css,html,java,js,python,react,git,github,vscode,firebase" />
 </p>
 
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=svnji&show_icons=true&locale=en&layout=compact" alt="svnji" /></p>
+### 📊 GitHub Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=svnji&show_icons=true&locale=en" alt="svnji" /></p>
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=svnji&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=svnji&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=svnji&" alt="svnji" /></p>
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=svnji&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+### ✨ Thanks for visiting!
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=120&section=footer"/>
+</p>
